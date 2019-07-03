@@ -1,2 +1,3 @@
 # This hook will run this script post merge
-./run_changelog.sh
+.git/hooks/run_changelog.sh
+git add CHANGELOG.md && git commit -m 'Updated CHANGELOG' && git push origin master

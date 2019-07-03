@@ -1,0 +1,2 @@
+# This hook will run this script post merge
+./run_changelog.sh

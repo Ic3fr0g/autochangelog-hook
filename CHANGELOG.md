@@ -4,8 +4,13 @@
 
 [Full Changelog](https://github.com/Ic3fr0g/autochangelog-hook/compare/v0.1...HEAD)
 
+**Closed issues:**
+
+- Hello this is still failing [\#3](https://github.com/Ic3fr0g/autochangelog-hook/issues/3)
+
 **Merged pull requests:**
 
+- Develop 3 [\#4](https://github.com/Ic3fr0g/autochangelog-hook/pull/4) ([Ic3fr0g](https://github.com/Ic3fr0g))
 - \[MOD\] Making them executable [\#2](https://github.com/Ic3fr0g/autochangelog-hook/pull/2) ([Ic3fr0g](https://github.com/Ic3fr0g))
 - \[ADD\] post-merge hooks and changelog generation [\#1](https://github.com/Ic3fr0g/autochangelog-hook/pull/1) ([Ic3fr0g](https://github.com/Ic3fr0g))
 

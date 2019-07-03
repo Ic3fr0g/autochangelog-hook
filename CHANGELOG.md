@@ -2,7 +2,26 @@
 
 ## [Unreleased](https://github.com/Ic3fr0g/autochangelog-hook/tree/HEAD)
 
-[Full Changelog](https://github.com/Ic3fr0g/autochangelog-hook/compare/v0.1...HEAD)
+[Full Changelog](https://github.com/Ic3fr0g/autochangelog-hook/compare/v1.1...HEAD)
+
+**Merged pull requests:**
+
+- \[ADD\] Credits to the real MVPs [\#5](https://github.com/Ic3fr0g/autochangelog-hook/pull/5) ([Ic3fr0g](https://github.com/Ic3fr0g))
+
+## [v1.1](https://github.com/Ic3fr0g/autochangelog-hook/tree/v1.1) (2019-07-03 20:55)
+
+**Description:**
+Giving credit where credit is due!
+
+[Full Changelog](https://github.com/Ic3fr0g/autochangelog-hook/compare/v1.0...v1.1)
+
+## [v1.0](https://github.com/Ic3fr0g/autochangelog-hook/tree/v1.0) (2019-07-03 20:50)
+
+**Description:**
+Stable release
+
+This is a pretty cool git hook
+[Full Changelog](https://github.com/Ic3fr0g/autochangelog-hook/compare/v0.1...v1.0)
 
 **Closed issues:**
 
